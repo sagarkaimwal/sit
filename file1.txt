@@ -1,3 +1,4 @@
 git is very worthest software
 git is very slow process
   i am very lazy person
+hi i am doing restore commited changes
